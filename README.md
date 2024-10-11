@@ -12,3 +12,5 @@ Will use Caesar cipher, Playfair cipher, Vigenere cipher
 Will allow user select of Cipher, key and whether to encrypt or decrypt
 
 ## Documentation
+
+Now this is a good CHANGE
